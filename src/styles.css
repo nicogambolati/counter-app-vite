@@ -1,0 +1,19 @@
+html, body {
+    background-color: blueviolet;
+    color: white;
+    font-size: 1.3rem;
+    padding: 70px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    padding: 15px;
+    font-size: 1.3rem;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    color: blueviolet;
+    cursor: pointer;
+}
